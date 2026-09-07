@@ -1,14 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6C63FF,45:00C9A7,75:FF6B9D,100:FFB86C&text=Nahyun%20Kim&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20HPC%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descSize=16&descAlignY=57&animation=fadeIn"/>
+# Hi, I'm Nahyun Kim 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2300&pause=700&color=6C63FF&center=true&vCenter=true&width=760&height=34&lines=%E2%9A%A1+Performance+Engineering+%26+High-Performance+Computing;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+%7C+AWS+Certified;%F0%9F%A4%96+AI-Assisted+Software+Engineering;%F0%9F%A4%9D+Reliable+Teammate+%E2%80%A2+Clear+Communicator+%E2%80%A2+Always+Learning" alt="Typing introduction"/>
+<b>Software Engineer</b> · HPC · Cloud · AI
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=900&color=6E7781&center=true&vCenter=true&width=760&height=32&lines=Building+thoughtful+software+with+performance+and+people+in+mind.;Researching+%26+building+across+systems%2C+cloud%2C+and+AI.;Reliable+teammate+%E2%80%A2+Clear+communicator+%E2%80%A2+Always+learning"
+  alt="Typing introduction"
+/>
 
 <p>
-<img src="https://img.shields.io/badge/Wayne%20State-Computer%20Science-5B5BD6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Research-HPC-00B8A9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wayne%20State-Computer%20Science-24292F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research-HPC-0969DA?style=flat-square"/>
 <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Detroit-MI-FF6B9D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Detroit-MI-8250DF?style=flat-square"/>
 </p>
 
 </div>
@@ -33,6 +38,7 @@
 </div>
 
 </td>
+
 <td width="51%" valign="top">
 
 ### 🚀 Selected Work
@@ -50,6 +56,7 @@
 </tr>
 
 <tr>
+
 <td width="49%" valign="top">
 
 ### 🔬 Current
@@ -59,6 +66,7 @@
 👩‍🏫 **Course Student Assistant**
 
 </td>
+
 <td width="51%" valign="top">
 
 ### 🌱 How I Work
@@ -69,6 +77,7 @@
 🔄 **Adaptable** — software, research, cloud, AI, and beyond
 
 </td>
+
 </tr>
 </table>
 
@@ -77,10 +86,17 @@
 <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-<img height="125" src="https://github-readme-stats.vercel.app/api?username=nahyunkim036&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahyunkim036&layout=compact&hide_border=true&langs_count=6"/>
+<img
+  height="125"
+  src="https://github-readme-stats.vercel.app/api?username=nahyunkim036&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"
+/>
+
+<img
+  height="125"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahyunkim036&layout=compact&hide_border=true&langs_count=6"
+/>
 
 <br/>
 
