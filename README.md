@@ -20,6 +20,7 @@
 
 <table>
 <tr>
+
 <td width="49%" valign="top">
 
 ### ⚡ Tech & Tools
@@ -31,10 +32,12 @@
 <br/>
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/Performance-Engineering-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Backend-Development-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cloud-DevOps-0891B2?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-Assisted-Development-DB2777?style=flat-square"/>
+
 </div>
 
 </td>
@@ -53,6 +56,7 @@
 <sub>`React` · `FastAPI` · `Backend` · `Agile`</sub>
 
 </td>
+
 </tr>
 
 <tr>
@@ -79,26 +83,16 @@
 </td>
 
 </tr>
+
 </table>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <br/><br/>
-
-<img
-  height="125"
-  src="https://github-readme-stats.vercel.app/api?username=nahyunkim036&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img
-  height="125"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahyunkim036&layout=compact&hide_border=true&langs_count=6"
-/>
-
-<br/>
 
 <sub>Build thoughtfully · Communicate clearly · Keep learning</sub>
 
